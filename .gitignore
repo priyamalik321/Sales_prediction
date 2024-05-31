@@ -1,0 +1,6 @@
+/venv
+/.idea
+/__pycache__
+model.pkl
+x_test_dataset.csv
+y_test_dataset.csv
